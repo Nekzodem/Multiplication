@@ -1,0 +1,91 @@
+body{
+    background-color:greenyellow;
+    font-family:arial;
+    color:greenyellow;
+    margin-left:20%;
+    margin-right:20%;
+}
+h1{
+    font-size:50px;
+}
+#etapeun{
+    background-color:black;
+    color: greenyellow;
+    text-align:center;
+    font-family:arial;
+    padding-top:50px;
+    padding-right:50px;
+    padding-left:50px;
+    padding-bottom:235px;
+    border-radius:3%;
+}
+select{
+    border-color:greenyellow;
+    background-color:transparent;
+    border-radius:.35rem;
+    color:greenyellow;
+    width:120px;
+    height:39px;
+    font-size: 1rem;
+}
+select:hover{
+    background-color:greenyellow;
+    color:black;
+}
+.annuler{
+    border-color:greenyellow;
+    background-color:transparent;
+    border-radius:.35rem;
+    color:greenyellow;
+    width:72px;
+    height:39px;
+    font-size: 1rem;
+    position: absolute;
+    right:30%;
+}
+.annuler:hover{
+    background-color:greenyellow;
+    color:black;
+}
+.voir{
+    border-color:greenyellow;
+    background-color:transparent;
+    border-radius:.35rem;
+    color:greenyellow;
+    width:105px;
+    height:39px;
+    font-size: 1rem;
+    right:23%;
+    position: absolute;
+}
+.voir:hover{
+    background-color:greenyellow;
+    color:black;
+}
+#etapedeux{
+    margin-top:5%;
+    background-color:black;
+    color: greenyellow;
+    text-align:center;
+    font-family:arial;
+    padding-top:50px;
+    padding-right:50px;
+    padding-left:50px;
+    padding-bottom:200px;
+    border-radius:3%;
+}
+#etapetrois{
+    margin-top:5%;
+    background-color:black;
+    color: greenyellow;
+    text-align:center;
+    font-family:arial;
+    padding-top:50px;
+    padding-right:50px;
+    padding-left:50px;
+    padding-bottom:200px;
+    border-radius:3%;
+}
+.resulat{
+    padding:5%;
+}
